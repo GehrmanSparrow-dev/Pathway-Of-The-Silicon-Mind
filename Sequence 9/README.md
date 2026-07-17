@@ -43,3 +43,8 @@ These scripts cover the fundamental concepts of Python programming:
   * **Concepts**: Reading CSV data (`csv.DictReader`), data cleaning, type casting, mathematical aggregation (mean, maximum), writing structured JSON files (`json.dump`).
   * **Behavior**: Reads student performance records from [Grades.csv](file:///c:/Pathway%20of%20the%20Silicon%20Mind/Sequence%209/Grades.csv), handles missing data by substituting placeholders, converts CGPAs to float, computes the class average CGPA, identifies the highest-achieving student, and writes a summary report to [student_summary.json](file:///c:/Pathway%20of%20the%20Silicon%20Mind/Sequence%209/student_summary.json).
 
+* **[Project 3: Personal Ledger Console App](file:///c:/Pathway%20of%20the%20Silicon%20Mind/Sequence%209/Project3.py)**
+  * **Concepts**: Menu-driven console interfaces, structured file writing/appending, input validation & error recovery (`try-except`), state persistence (`txt` storage), unique key matching (`set`).
+  * **Behavior**: A CLI-based finance tracker that persists expenses to [ledger.txt](file:///c:/Pathway%20of%20the%20Silicon%20Mind/Sequence%209/ledger.txt). Users can add items, view categories, filter transactions by maximum price, and get total cumulative expenditure.
+
+
