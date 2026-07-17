@@ -1,0 +1,17 @@
+# Ignore everything by default
+*
+
+# Allow folders to be scanned
+!*/
+
+# Whitelist tracking files/folders
+!.gitignore
+!README.md
+!Sequence 9/
+!Sequence 9/**
+
+# Block the virtual environment and cached files inside Sequence 9
+Sequence 9/.venv/
+.venv/
+.arrodes_profile/
+temp_clone/
