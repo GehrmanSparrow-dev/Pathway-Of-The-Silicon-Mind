@@ -38,3 +38,8 @@ These scripts cover the fundamental concepts of Python programming:
 * **[Project 1: Directory File Organizer](file:///c:/Pathway%20of%20the%20Silicon%20Mind/Sequence%209/Project1.py)**
   * **Concepts**: Directory traversing (`os.listdir`), file movements (`shutil.move`), file format validation, log creation via CSV exporting (`csv.writer`).
   * **Behavior**: Organizes files in a target folder by sorting them into categorised subfolders (e.g. `Text/`, `Documents/`, `Images/`, `Data/`) depending on their extension. It logs all moved files and their destinations into a `file_movements.csv` document.
+
+* **[Project 2: Student Grades Processor](file:///c:/Pathway%20of%20the%20Silicon%20Mind/Sequence%209/Project2.py)**
+  * **Concepts**: Reading CSV data (`csv.DictReader`), data cleaning, type casting, mathematical aggregation (mean, maximum), writing structured JSON files (`json.dump`).
+  * **Behavior**: Reads student performance records from [Grades.csv](file:///c:/Pathway%20of%20the%20Silicon%20Mind/Sequence%209/Grades.csv), handles missing data by substituting placeholders, converts CGPAs to float, computes the class average CGPA, identifies the highest-achieving student, and writes a summary report to [student_summary.json](file:///c:/Pathway%20of%20the%20Silicon%20Mind/Sequence%209/student_summary.json).
+
