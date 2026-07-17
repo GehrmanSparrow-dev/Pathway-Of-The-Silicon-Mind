@@ -2,12 +2,14 @@
 
 Welcome to the **Sequence 9: The Coder** section of the *Pathway of the Silicon Mind* study plan. This folder contains the foundational Python assignments, projects, and guides completed during this sequence.
 
+All the checkpoints and projects in this directory were completed using the accompanying PDF guide as a study reference.
+
 ---
 
 ## Contents
 
 ### 1. Study Guide
-* **[Sequence_9_The_Coder_Guide.pdf](file:///c:/Pathway%20of%20the%20Silicon%20Mind/Sequence%209/Sequence_9_The_Coder_Guide.pdf)**: The primary study guide detailing the objectives, theory, and curriculum for the sequence.
+* **[Sequence_9_The_Coder_Guide.pdf](file:///c:/Pathway%20of%20the%20Silicon%20Mind/Sequence%209/Sequence_9_The_Coder_Guide.pdf)**: The primary study guide detailing the objectives, theory, and curriculum. This PDF was used as the guiding material for all the programming challenges in this sequence.
 
 ### 2. Checkpoint Scripts
 These scripts cover the fundamental concepts of Python programming:
