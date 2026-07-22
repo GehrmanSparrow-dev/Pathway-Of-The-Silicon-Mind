@@ -9,6 +9,8 @@
 !README.md
 !Sequence 9/
 !Sequence 9/**
+!Sequence 8/
+!Sequence 8/**
 
 # Block the virtual environment and cached files inside Sequence 9
 Sequence 9/.venv/
